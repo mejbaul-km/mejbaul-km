@@ -82,6 +82,23 @@ Here are some ideas to get you started:
 
 ## 👾 Contribution Graph
 
+
+
+## Statics
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=Mejbaul-Km&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://github-profile-trophy.vercel.app?username=Mejbaul-Km&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
+</div>
+
+
+
+
+
+
 <!-- Attribution for icons (optional but recommended) -->
+
+
+
 <p align="center"><sub>🎨 Some icons by <a href="https://icons8.com" target="_blank">Icons8</a></sub></p>
+
 

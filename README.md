@@ -29,18 +29,17 @@ Here are some ideas to get you started:
 <p> 👤 About Me </p>
 
 
+- 🔭 Currently exploring the vast IT universe
+- 🌱 Learning something new every day
+- 👯 Looking to collaborate on exciting projects
+- ⚡ Fun fact: Professional creator of random things
+- 📫 Reach me at: tasinchina@proton.me
 
-- 👋 Hi, I’m **@MejbaulKM**
-- 👀 I’m interested in **the IT world**
-- 🌱 I’m currently exploring **web development, design, and animation tools**
-- 💼 I’m looking to collaborate with **companies and developers**
-- 📫 Reach me at: **tasinchina@proton.me**
-- 🌍 Name Variants:
-  - 🇨🇳 **Chinese:** 林 梅兹鲍尔  
-  - 🇰🇷 **Korean:** 림메즈바워  
-  - 🇬🇧 **English:** Mejbaul
-- ⚡ Fun fact: I love creating new things!
-- ©️ Copyright: 2024–2028
+<p> 🌐 My Multilingual Identity </p>
+
+- 中文名: 林 梅兹鲍尔
+- 한국 이름: 림메즈바워
+- English name: Mejbaul
 
 
 

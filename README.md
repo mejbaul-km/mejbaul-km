@@ -39,7 +39,7 @@ Here are some ideas to get you started:
 - 한국 이름: 림메즈바워
 - English name: Mejbaul
 
-### 🛠️ Tech Stack
+#### 🛠️ Tech Stack
 
 #### 💻 Programming Languages
 

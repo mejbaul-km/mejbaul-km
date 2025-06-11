@@ -98,14 +98,13 @@ Here are some ideas to get you started:
 ## Chart
 
 <!-- Dark/Light mode support for GitHub contribution graph -->
+
+
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Mejbaul-Km/Mejbaul-Km/output/sultan-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Mejbaul-Km/Mejbaul-Km/output/sultan-contribution-graph.svg">
-  <img alt="Sultan contribution graph" src="https://raw.githubusercontent.com/Mejbaul-Km/Mejbaul-Km/output/sultan-contribution-graph.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Mejbaul-Km/Mejbaul-Km/main/output/sultan-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Mejbaul-Km/Mejbaul-Km/main/output/sultan-contribution-graph.svg">
+  <img alt="Sultan contribution graph" src="https://raw.githubusercontent.com/Mejbaul-Km/Mejbaul-Km/main/output/sultan-contribution-graph.svg">
 </picture>
-
-
-
 
 
 

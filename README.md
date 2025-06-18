@@ -35,9 +35,11 @@ Here are some ideas to get you started:
 ###
 <p> 🌐 My Multilingual Identity </p>
 
-- 中文名: 林 梅兹鲍尔
-- 한국 이름: 림메즈바워
-- English name: Mejbaul
+- 中文名        : 林 梅兹鲍尔
+- 한국 이름     : 림메즈바워
+- 日本名        : 山本 明潤
+- English name : Mejbaul
+  
 
 #### 🛠️ Tech Stack
 
